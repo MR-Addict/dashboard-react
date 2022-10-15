@@ -1,7 +1,6 @@
 {
   "name": "dashboard",
   "version": "0.1.0",
-  "homepage": "dashboard-react",
   "private": true,
   "dependencies": {
     "@syncfusion/ej2": "^20.3.49",
