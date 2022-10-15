@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://mr-addict.github.io/dashboard-react/static/css/main.3e812d01.css",
-    "main.js": "https://mr-addict.github.io/dashboard-react/static/js/main.20967998.js",
+    "main.js": "https://mr-addict.github.io/dashboard-react/static/js/main.01cbc9b6.js",
     "static/media/product4.jpg": "https://mr-addict.github.io/dashboard-react/static/media/product4.767417bea17688d6d8ce.jpg",
     "static/media/product2.jpg": "https://mr-addict.github.io/dashboard-react/static/media/product2.e93f12ec1b20980a1bd1.jpg",
     "static/media/product1.jpg": "https://mr-addict.github.io/dashboard-react/static/media/product1.b8efc7a24c281ed8911b.jpg",
@@ -15,10 +15,10 @@
     "static/media/product5.jpg": "https://mr-addict.github.io/dashboard-react/static/media/product5.f4c5d8f991b753ca0fcc.jpg",
     "index.html": "https://mr-addict.github.io/dashboard-react/index.html",
     "main.3e812d01.css.map": "https://mr-addict.github.io/dashboard-react/static/css/main.3e812d01.css.map",
-    "main.20967998.js.map": "https://mr-addict.github.io/dashboard-react/static/js/main.20967998.js.map"
+    "main.01cbc9b6.js.map": "https://mr-addict.github.io/dashboard-react/static/js/main.01cbc9b6.js.map"
   },
   "entrypoints": [
     "static/css/main.3e812d01.css",
-    "static/js/main.20967998.js"
+    "static/js/main.01cbc9b6.js"
   ]
 }
