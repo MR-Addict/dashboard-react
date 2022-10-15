@@ -34,7 +34,6 @@ const Customers = () => {
         allowSorting
       >
         <ColumnsDirective>
-          {/* eslint-disable-next-line react/jsx-props-no-spreading */}
           {customersGrid.map((item, index) => (
             <ColumnDirective key={index} {...item} />
           ))}

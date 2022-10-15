@@ -43,7 +43,7 @@ const Navbar = () => {
       setActiveMenu(false);
     } else {
       setActiveMenu(true);
-    }
+    } // eslint-disable-next-line
   }, [screenSize]);
 
   const handleActiveMenu = () => setActiveMenu(!activeMenu);
