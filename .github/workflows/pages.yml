@@ -30,7 +30,7 @@ jobs:
         env:
           SYNCFUSION_LICENSE: ${{ secrets.SYNCFUSION_LICENSE }}
       - name: Build project
-        run: PUBLIC_URL=https://mr-addict.github.io/dashboard-react/ npm run build
+        run: npm run build
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
