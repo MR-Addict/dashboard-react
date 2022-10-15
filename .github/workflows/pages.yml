@@ -25,6 +25,10 @@ jobs:
           restore-keys: ${{ runner.OS }}-npm-cache
       - name: Install npm dependencies
         run: npm install
+      - name: Activate Syncfusion License
+        run: npx syncfusion-license activate
+        env:
+          SYNCFUSION_LICENSE: ${{ secrets.SYNCFUSION_LICENSE }}
       - name: Build project
         run: PUBLIC_URL=https://mr-addict.github.io/dashboard-react/ npm run build
       - name: Deploy

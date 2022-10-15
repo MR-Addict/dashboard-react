@@ -9,7 +9,7 @@ This is my React Learning App which I learning from this youtuber channel:
 
 ![preview](images/preview.png)
 
-> demo page: [https://mr-addict.github.io/movieland](https://mr-addict.github.io/dashboard-react)
+> demo page: [https://mr-addict.github/dashboard-react](https://mr-addict.github.io/dashboard-react)
 
 ## 2. Commands
 
