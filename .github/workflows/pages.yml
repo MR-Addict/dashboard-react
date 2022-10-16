@@ -30,7 +30,7 @@ jobs:
         env:
           SYNCFUSION_LICENSE: ${{ secrets.SYNCFUSION_LICENSE }}
       - name: Build project
-        run: npm run build
+        run: PUBLIC_URL=./ npm run build
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
